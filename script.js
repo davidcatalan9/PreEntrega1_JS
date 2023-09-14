@@ -21,7 +21,11 @@ window.onload = function () {
 
         }
 
-        alert(marcaReloj)
+        for (let i = 1; i <= marcaReloj; i++) {
+            alert("contando ..."+ i + "!!!" )
+            
+        }
+        
 
         switch (marcaReloj) {
             case 1:
