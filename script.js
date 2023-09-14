@@ -29,18 +29,18 @@ window.onload = function () {
 
         switch (marcaReloj) {
             case 1:
-                alert("La marca elegida fue: CASIO\n El valor del reloj es: $ 27.000.-");
+                alert("La marca elegida fue: CASIO\n El valor del reloj es:\n $ 27.000.-");
                 break;
 
             case 2:
-                alert("La marca elegida fue: SWATCH\n El valor del reloj es: $ 32.000.-");
+                alert("La marca elegida fue: SWATCH\n El valor del reloj es:\n $ 32.000.-");
                 break;
 
             case 3:
-                alert("La marca elegida fue: FESTINA\n El valor del reloj es: $ 82.000.-");
+                alert("La marca elegida fue: FESTINA\n El valor del reloj es:\n $ 82.000.-");
                 break;
             case 4:
-                alert("La marca elegida fue: ROLEX\n El valor del reloj es: $ 132.000.-")
+                alert("La marca elegida fue: ROLEX\n El valor del reloj es:\n $ 132.000.-")
                 break;
         }
 
